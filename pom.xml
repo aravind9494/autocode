@@ -5,7 +5,7 @@
 
 	<groupId>io.github.aravind9494</groupId>
 	<artifactId>one</artifactId>
-	<version>0.1</version>
+	<version>0.2</version>
 	<packaging>jar</packaging>
 	<description>This project has java code that will be useful for automation</description>
 	<name>io.github.aravind9494:one</name>

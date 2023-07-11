@@ -22,7 +22,7 @@ public class OneTest {
 
 	/**
 	 * args provided from cmd
-	 * @param args
+	 * @param args : added for args
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
