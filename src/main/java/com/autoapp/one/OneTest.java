@@ -1,5 +1,8 @@
 package com.autoapp.one;
 
+/**
+ * this class is created for the testing purpose
+ */
 public class OneTest {
 	/**
 	 * Fails a test with the given message.
@@ -17,6 +20,10 @@ public class OneTest {
 		fail(null);
 	}
 
+	/**
+	 * args provided from cmd
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		fail();
